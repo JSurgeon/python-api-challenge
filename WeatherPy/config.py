@@ -1,2 +1,1 @@
-weather_key = ""
-
+weather_key = "Your Key Here"
